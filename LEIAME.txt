@@ -1,0 +1,5 @@
+yarn dev --> inicia a parte backend
+
+yarn start --> inicia a parte web
+
+expo start --> inicia expo mobile
